@@ -11,7 +11,12 @@
 ### 🔹 选项 A：更换为 EIM 标准图标 (Dark Blue)
 ```html
 <link rel="icon" href="https://github.com/Terback/Images/blob/main/logo/icon_darkblue.png?raw=true" />
+```
 
-### 🔹 选项 A：更换为 EIM 标准图标 (Dark Blue)
+### 🔹 选项 B：更换为 TerMade 标准图标
 ```html
-<link rel="icon" href="[https://github.com/Terback/Images/blob/main/logo/icon_darkblue.png?raw=true](https://github.com/Terback/Images/blob/main/logo/icon_darkblue.png?raw=true)" />
+<link rel="icon" href="https://github.com/Terback/Images/blob/main/logo/TermadeEIM.png?raw=true" />
+```
+
+
+
