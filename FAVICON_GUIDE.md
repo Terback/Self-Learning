@@ -12,3 +12,6 @@
 ```html
 <link rel="icon" href="https://github.com/Terback/Images/blob/main/logo/icon_darkblue.png?raw=true" />
 
+### 🔹 选项 A：更换为 EIM 标准图标 (Dark Blue)
+```html
+<link rel="icon" href="[https://github.com/Terback/Images/blob/main/logo/icon_darkblue.png?raw=true](https://github.com/Terback/Images/blob/main/logo/icon_darkblue.png?raw=true)" />
