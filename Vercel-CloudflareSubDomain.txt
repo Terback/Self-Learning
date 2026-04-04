@@ -1,0 +1,19 @@
+
+
+
+第一步：在 Vercel 中添加自定义域名
+登录 Vercel Dashboard，进入你新创建的那个 Dashboard 项目。
+
+点击顶部的 Settings 选项卡。
+
+在左侧菜单中选择 Domains。
+
+在输入框中输入 hub.eimtechnology.com，然后点击 Add。
+
+此时 Vercel 会显示一条警告，提示 Invalid Configuration。别担心，它会给你两个关键信息（选其一即可，推荐使用 CNAME）：
+
+Type: CNAME
+
+Name: hub
+
+Value: cname.vercel-dns.com
