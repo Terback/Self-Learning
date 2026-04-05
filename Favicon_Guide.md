@@ -1,6 +1,6 @@
-# 🌐 EIM 网页图标 (Favicon) 快速替换指南
+# 🌐网页图标 (Favicon) 快速替换指南
 
-本指南用于在开发 EIM 相关项目（如 Hub, Invoice, Schedule 等）时，快速配置或更换浏览器标签页的小图标。
+本指南用于在开发Web Develop相关项目（如 Hub, Invoice, Schedule 等）时，快速配置或更换浏览器标签页的小图标。
 
 ---
 
