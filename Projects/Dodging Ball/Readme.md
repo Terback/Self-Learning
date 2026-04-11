@@ -7,7 +7,7 @@ A fast-paced arcade survival game running on a **Raspberry Pi Pico W** (STEPico)
 ## 📸 Demo
 
 <div align="center">
-  <img src="[你的图片链接](https://github.com/user-attachments/assets/561f3463-e71c-4bda-b366-f80cd26eca0f)" width="700"/>
+  <img src="https://github.com/user-attachments/assets/561f3463-e71c-4bda-b366-f80cd26eca0f" width="700"/>
 </div>
 
 ---
