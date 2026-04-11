@@ -6,7 +6,7 @@ A fast-paced arcade survival game running on a **Raspberry Pi Pico W** (STEPico)
 
 ## 📸 Demo
 
-> *(Add a photo or GIF of your hardware running the game here)*
+> ![Image](https://github.com/user-attachments/assets/d3f99014-6508-49b1-9447-29d6f95c8707)
 
 ---
 
